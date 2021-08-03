@@ -2,6 +2,7 @@ from dog import Dog
 
 def main():
     #write your code below this line
+    pass
 
 
 if __name__ == '__main__':
